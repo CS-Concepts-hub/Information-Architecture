@@ -26,22 +26,22 @@ sno: [
 ]
 
 lectures:
-  - topic: Object Oriented Software Development: Basic OO Concepts  
+  - topic: Object Oriented Software Development-Basic OO Concepts  
     video: https://youtu.be/TEZMOBvor8M 
     notes: 
     exercises:
     type: 'hw'
-  - topic: UML Diagrams: Basics
+  - topic: UML Diagrams - Basics
     video: https://youtu.be/KXxlkT8j2xI 
     notes:
     exercises: 
     type: 'hw'
-  - topic: OO Analysis Basics: Use Case Model/Diagram Creation 
+  - topic: OO Analysis Basics - Use Case Model/Diagram Creation 
     video: https://youtu.be/c9wI6PnmP30 
     notes:
     exercises: 
     type: 'hw'
-  - topic:  OO Analysis: Creating a Use-Case Diagram (with Generalization, Include, and Extend relationships) 
+  - topic:  OO Analysis - Creating a Use-Case Diagram (with Generalization, Include, and Extend relationships) 
     video: https://youtu.be/3r5fCZmY8JY 
     notes: 
     exercises: 
@@ -56,42 +56,42 @@ lectures:
     notes: 
     exercises:
     type: ''
-  - topic: OO Analysis: Use-Case-Modeling-A Case Study 
+  - topic: OO Analysis - Use-Case-Modeling-A Case Study 
     video: https://youtu.be/6gSoXLARsfg 
     notes: 
     exercises: 
     type: 'hw'
-  - topic: OO Analysis-Structural-View: Identification of Classes and Relationships 
+  - topic: OO Analysis-Structural-View - Identification of Classes and Relationships 
     video: https://youtu.be/1oE62QXYv3k 
     notes:
     exercises:
     type: ''
-  - topic: OO Analysis: Domain Model (Basic Class Diagram) 
+  - topic: OO Analysis - Domain Model (Basic Class Diagram) 
     video: https://youtu.be/htNFYG3w65A 
     notes: 
     exercises: 
     type: 'hw'
-  - topic: OO Analysis: Domain Model (Basic Class Diagram) Case-Study-1    
+  - topic: OO Analysis - Domain Model (Basic Class Diagram) Case-Study-1    
     video: https://youtu.be/gwLRdpLnAS8 
     notes: 
     exercises:
     type: ''
-  - topic: OO Analysis: Domain Model (Basic Class Diagram) Case-Study-2 
+  - topic: OO Analysis - Domain Model (Basic Class Diagram) Case-Study-2 
     video: https://youtu.be/o91jU71vyFk 
     notes:
     exercises: 
     type: 'hw'
-  - topic: Behavioural View: Activity Diagram Basics
+  - topic: Behavioural View - Activity Diagram Basics
     video: 
     notes: 
     exercises:
     type: ''
-  - topic: Creating Activity Diagram: Simple Examples
+  - topic: Creating Activity Diagram - Simple Examples
     video: 
     notes: 
     exercises: 
     type: 'hw'
-  - topic: OO-Design: Basics 
+  - topic: OO-Design - Basics 
     video: 
     notes:
     exercises:
