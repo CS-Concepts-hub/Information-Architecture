@@ -28,7 +28,7 @@ sno: [
 lectures:
   - topic: Object Oriented Software Development-Basic OO Concepts  
     video: https://youtu.be/TEZMOBvor8M 
-    notes: 
+    notes: OOSD-Basics.pdf
     exercises:
     type: 'hw'
   - topic: UML Diagrams - Basics
