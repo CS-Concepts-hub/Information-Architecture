@@ -33,7 +33,7 @@ lectures:
     type: 'hw'
   - topic: UML Diagrams - Basics
     video: https://youtu.be/KXxlkT8j2xI 
-    notes:
+    notes: UML-Diagram-Basics.pdf
     exercises: 
     type: 'hw'
   - topic: OO Analysis Basics - Use Case Model/Diagram Creation 
