@@ -80,9 +80,9 @@ lectures:
     video: https://youtu.be/o91jU71vyFk 
     notes:
     exercises: 
-    type: 'hw'
-  - topic: Behavioural View - Activity Diagram Basics
-    video: 
+    type: ''
+  - topic: Modelling System Behaviour: Assigning Responsibilities and Collaboration to classes 
+    video:https://youtu.be/2pmGbRoqV00 
     notes: 
     exercises:
     type: ''
