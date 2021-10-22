@@ -80,13 +80,13 @@ lectures:
     video: https://youtu.be/o91jU71vyFk 
     notes:
     exercises: 
-    type: ''
+    type: 'hw'
   - topic: Modelling System Behaviour: Assigning Responsibilities and Collaboration to classes 
-    video:https://youtu.be/2pmGbRoqV00 
+    video: https://youtu.be/2pmGbRoqV00 
     notes: 
     exercises:
     type: ''
-  - topic: Creating Activity Diagram - Simple Examples
+  - topic: Creating Sequence Diagram - Simple Examples
     video: 
     notes: 
     exercises: 
