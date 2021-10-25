@@ -43,7 +43,7 @@ lectures:
     type: 'hw'
   - topic:  OO Analysis - Creating a Use-Case Diagram (with Generalization, Include, and Extend relationships) 
     video: https://youtu.be/3r5fCZmY8JY 
-    notes: 
+    notes: OOAnalysis-Extended-Diagram.pdf
     exercises: 
     type: 'hw'
   - topic:  OO Analysis-Creating a Use-Case Diagram - Example 
