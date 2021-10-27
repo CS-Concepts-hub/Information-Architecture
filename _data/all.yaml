@@ -39,7 +39,7 @@ lectures:
   - topic: OO Analysis Basics - Use Case Model/Diagram Creation 
     video: https://youtu.be/c9wI6PnmP30 
     notes: OO-Analysis-Basics.pdf
-    exercises:  
+    exercises: Exercises-Use-Case-Modeling.pdf  
     type: 'hw'
   - topic:  OO Analysis - Creating a Use-Case Diagram (with Generalization, Include, and Extend relationships) 
     video: https://youtu.be/3r5fCZmY8JY 
