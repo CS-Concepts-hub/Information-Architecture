@@ -53,7 +53,7 @@ lectures:
     type: 'hw'
   - topic: OO Analysis-Writing a Use-Cases Description 
     video: https://youtu.be/CQLHC3aOYfg 
-    notes: 
+    notes: Describing-Use-Cases.pdf
     exercises:
     type: ''
   - topic: OO Analysis - Use-Case-Modeling-A Case Study 
