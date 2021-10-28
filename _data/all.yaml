@@ -51,7 +51,7 @@ lectures:
     notes: 
     exercises: 
     type: 'hw'
-  - topic: OO Analysis-Writing a Use-Cases Description 
+  - topic: OO Analysis-Writing Use-Cases Description 
     video: https://youtu.be/CQLHC3aOYfg 
     notes: Describing-Use-Cases.pdf
     exercises:
