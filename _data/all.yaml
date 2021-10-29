@@ -58,7 +58,7 @@ lectures:
     type: ''
   - topic: OO Analysis - Use-Case-Modeling-A Case Study 
     video: https://youtu.be/6gSoXLARsfg 
-    notes: 
+    notes: OOAnalysis-Use-Case-Modeling-Case-Study.pdf
     exercises: 
     type: 'hw'
   - topic: OO Analysis-Structural-View - Identification of Classes and Relationships 
