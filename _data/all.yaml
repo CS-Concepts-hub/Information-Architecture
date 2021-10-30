@@ -68,7 +68,7 @@ lectures:
     type: ''
   - topic: OO Analysis - Domain Model (Basic Class Diagram) 
     video: https://youtu.be/htNFYG3w65A 
-    notes:OOAnalysis-Domain-Model.pdf 
+    notes: OOAnalysis-Domain-Model.pdf 
     exercises: 
     type: 'hw'
   - topic: OO Analysis - Domain Model (Basic Class Diagram) Case-Study-1    
