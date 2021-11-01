@@ -78,7 +78,7 @@ lectures:
     type: ''
   - topic: OO Analysis - Domain Model (Basic Class Diagram) Case-Study-2 
     video: https://youtu.be/o91jU71vyFk 
-    notes:
+    notes: OOAnalysis-Domain-Model-Case-Study-2.pdf
     exercises: 
     type: 'hw'
   - topic: Modelling System Behaviour - Assigning Responsibilities and Collaboration to classes 
