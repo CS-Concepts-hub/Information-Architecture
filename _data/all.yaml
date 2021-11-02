@@ -64,7 +64,7 @@ lectures:
   - topic: OO Analysis-Structural-View - Identification of Classes and Relationships 
     video: https://youtu.be/1oE62QXYv3k 
     notes: OOAnalysis-Structural-View.pdf
-    exercises:
+    exercises: Exercises-Identification-of-Classes-Relationships.pdf 
     type: ''
   - topic: OO Analysis - Domain Model (Basic Class Diagram) 
     video: https://youtu.be/htNFYG3w65A 
