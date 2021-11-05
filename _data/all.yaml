@@ -86,12 +86,12 @@ lectures:
     notes: 
     exercises:
     type: ''
-  - topic: Creating Sequence Diagram - Simple Examples
-    video: 
+  - topic: Modelling System Behaviour - Creating CRC Cards --> Class Diagram - Case-Study
+    video: https://youtu.be/aBV9LZl2Xr0
     notes: 
     exercises: 
     type: 'hw'
-  - topic: OO-Design - Basics 
+  - topic: 
     video: 
     notes:
     exercises:
