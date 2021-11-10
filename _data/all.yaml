@@ -91,8 +91,8 @@ lectures:
     notes: 
     exercises: 
     type: 'hw'
-  - topic: 
-    video: 
+  - topic: Interaction Diagrams - Sequence Diagram Creation
+    video: https://youtu.be/3IjEuezGG4o
     notes:
     exercises:
     type: ''
