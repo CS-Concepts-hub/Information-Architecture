@@ -121,8 +121,8 @@ lectures:
     notes: 
     exercises:
     type: ''
-  - topic: 
-    video: 
+  - topic: OO Design - Layered Architecture - Package Diagram 
+    video: https://youtu.be/wHovNMMWh3I
     notes:
     exercises:
     type: ''
