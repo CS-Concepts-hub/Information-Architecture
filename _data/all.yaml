@@ -126,8 +126,8 @@ lectures:
     notes:
     exercises:
     type: ''
-  - topic: 
-    video: 
+  - topic: OO Design - Creating Software Classes - Adding Operations to Classes using Sequence Diagrams
+    video: https://youtu.be/i6QMUAwrB4Q
     notes: 
     exercises:
     type: ''
