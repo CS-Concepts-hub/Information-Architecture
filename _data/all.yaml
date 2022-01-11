@@ -51,7 +51,7 @@ lectures:
     notes: 
     exercises: 
     type: 'hw'
-  - topic:O Analysis-Writing Use-Cases Description 
+  - topic: O Analysis-Writing Use-Cases Description 
     video: https://youtu.be/CQLHC3aOYfg 
     notes: Describing-Use-Cases.pdf
     exercises:
