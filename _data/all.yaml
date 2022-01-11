@@ -26,32 +26,32 @@ sno: [
 ]
 
 lectures:
-  - topic: Object Oriented Software Development-Basic OO Concepts  
-    video: https://youtu.be/TEZMOBvor8M 
-    notes: OOSD-Basics-1.pdf
+  - topic: Software Design and Development - Basics   
+    video:  
+    notes: 
     exercises:
     type: 'hw'
-  - topic: UML Diagrams - Basics
-    video: https://youtu.be/KXxlkT8j2xI 
-    notes: UML-Diagram-Basics.pdf
+  - topic: Structured Approach for Software Design 
+    video: 
+    notes: 
     exercises: 
     type: 'hw'
-  - topic: OO Analysis Basics - Use Case Model/Diagram Creation 
-    video: https://youtu.be/c9wI6PnmP30 
-    notes: OO-Analysis-Basics.pdf
-    exercises: Exercises-Use-Case-Modeling.pdf  
-    type: 'hw'
-  - topic:  OO Analysis - Creating a Use-Case Diagram (with Generalization, Include, and Extend relationships) 
-    video: https://youtu.be/3r5fCZmY8JY 
-    notes: OOAnalysis-Extended-Diagram.pdf
+  - topic: Structured Analysis and Design Tools  
+    video: 
+    notes: 
     exercises: 
     type: 'hw'
-  - topic:  OO Analysis-Creating a Use-Case Diagram - Example 
+  - topic: Structured Analysis - Basics 
+    video: 
+    notes: 
+    exercises: 
+    type: 'hw'
+  - topic: Data Flow Diagrams - Basics and Components 
     video: https://youtu.be/m8_uKzC_Wcc 
     notes: 
     exercises: 
     type: 'hw'
-  - topic: OO Analysis-Writing Use-Cases Description 
+  - topic:O Analysis-Writing Use-Cases Description 
     video: https://youtu.be/CQLHC3aOYfg 
     notes: Describing-Use-Cases.pdf
     exercises:
