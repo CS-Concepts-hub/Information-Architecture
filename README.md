@@ -1,1 +1,1 @@
-Object Oriented Analysis and Design by M. Afzal Bhatti
+Structured Analysis and Design by M. Afzal Bhatti
