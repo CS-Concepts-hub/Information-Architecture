@@ -27,22 +27,22 @@ sno: [
 
 lectures:
   - topic: Software Design and Development - Basics   
-    video:  
+    video:  https://youtu.be/m8_uKzC_Wcc 
     notes: 
     exercises:
     type: 'hw'
   - topic: Structured Approach for Software Design 
-    video: 
+    video: https://youtu.be/m8_uKzC_Wcc 
     notes: 
     exercises: 
     type: 'hw'
   - topic: Structured Analysis and Design Tools  
-    video: 
+    video: https://youtu.be/m8_uKzC_Wcc 
     notes: 
     exercises: 
     type: 'hw'
   - topic: Structured Analysis - Basics 
-    video: 
+    video: https://youtu.be/m8_uKzC_Wcc 
     notes: 
     exercises: 
     type: 'hw'
